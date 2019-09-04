@@ -18,4 +18,4 @@
 
 ## Files
 
-[Introduction to Machine Learning](https://github.com/brunocu/DataScience/blob/master/MLintro.ipynb)
+- [Introduction to Machine Learning](https://github.com/brunocu/DataScience/blob/master/MLintro.ipynb) ([nbviewer](https://nbviewer.jupyter.org/github/brunocu/DataScience/blob/master/MLintro.ipynb))
